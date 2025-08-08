@@ -1,3 +1,6 @@
 New Features & Improvements
 
-* Test
+* Fixed Playintegrity 
+* Improved overall performance 
+* Fixed statusbar internet icons
+* New default wallpaper
