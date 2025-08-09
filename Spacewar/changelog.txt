@@ -1,6 +1,7 @@
 New Features & Improvements
 
-* Fixed Playintegrity 
-* Improved overall performance 
-* Fixed statusbar internet icons
-* New default wallpaper
+* Improved auto brightness
+* Attempt to fix NOS camera video
+* Cleanup gms
+* Switched to CarrierSettings
+* Improved HBM/HDR brightness level
