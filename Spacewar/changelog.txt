@@ -1,7 +1,17 @@
 New Features & Improvements
 
-* Improved auto brightness
-* Attempt to fix NOS camera video
-* Cleanup gms
-* Switched to CarrierSettings
-* Improved HBM/HDR brightness level
+* Battery share has Settings page now inspired from Pixel 
+* August security patch
+* Fixed battery health settings incorrectly appearing
+* Fixed lockscreen shortcut settings crash
+* Fixed some minor issues with Bluetooth 
+* Fixed an occasional gms crash
+* Fixed Security and privacy page UI
+* Now passes strong integrity by default (atleast for now )
+* Enabled Bluetooth auto turn on toggle 
+* Enabled some pixel 8+ features on google photos
+* Improved LTE/5G statusbar icon design
+* Improved biometrics prompt layout
+* Fixed some memory management issues (basically improved overall performance)
+* Fixed google settings backup
+* Fixed Google incorrectly detecting device as Pixel 8
