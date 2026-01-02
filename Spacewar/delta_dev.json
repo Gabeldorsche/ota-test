@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "datetime": 1767352376,
+      "filename": "MicaOS-BP4A-Bronzite-Spacewar-20251225-142617-delta.zip",
+      "url": "https://drive.aswinas.workers.dev/0:/.Test/MicaOS-BP4A-Bronzite-Spacewar-20251225-142617-delta.zip",
+      "expected_filename": "BP4A-Bronzite-Spacewar-20251230-171216",
+      "md5": "bd4090f7a3400ed4e1e85685fd9b972a",
+      "payload": [
+        {
+          "offset": 5210,
+            "FILE_HASH": "JkK6Iwq+Z0JG953dtSfVj9wDUaAcTPJuT/V7RLeAlvI=",
+            "FILE_SIZE": "271358",
+            "METADATA_HASH": "tD/dj/6Iz0bNwBW6/Jaxs8ys18dREOe9AhEc9fuMq0Y=",
+            "METADATA_SIZE": "270824"
+        }
+      ]
+    }
+  ]
+}
